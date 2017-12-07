@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: secret-inlet-30486
+      appname: 
 machine:
   node:
     version: 8.1.4
