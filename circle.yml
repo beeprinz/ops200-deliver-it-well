@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: 
+      appname: bp-ops200deliveritwell
 machine:
   node:
     version: 8.1.4
